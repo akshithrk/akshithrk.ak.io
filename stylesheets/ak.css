@@ -1,0 +1,36 @@
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #04B486;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+    position: fixed;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer_links {
+    background: none repeat scroll 0 0 transparent;
+    height: 100px;
+    margin: auto;
+}
