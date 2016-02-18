@@ -32,6 +32,7 @@ footer {
 .footer_links {
     background: none repeat scroll 0 0 transparent;
     margin: auto;
+    background-color: white;
 }
 
 @import url("screen.css");
